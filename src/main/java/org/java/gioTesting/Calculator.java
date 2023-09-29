@@ -1,3 +1,4 @@
+package org.java.gioTesting;
 
 public class Calculator {
 
@@ -19,4 +20,5 @@ public class Calculator {
     public float multiply(float num1, float num2) {
         return num1 * num2;
     }
+
 }
